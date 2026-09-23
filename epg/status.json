@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T17:21:07.852627+00:00",
+  "generated_at": "2026-09-23T17:24:24.824725+00:00",
   "playlists": {
     "mexico": {
       "total_channels": 48,
@@ -64,7 +64,7 @@
       "total_channels": 108,
       "channels_with_programmes": 83,
       "channels_with_current_programme": 83,
-      "programmes": 2971,
+      "programmes": 2970,
       "covered": [
         "ABC.us@East",
         "CBS.us@East",
