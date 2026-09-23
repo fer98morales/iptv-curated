@@ -1,0 +1,828 @@
+[
+  {
+    "tvg_id": "MilenioTelevision.mx@SD",
+    "site": "plex.tv",
+    "site_id": "65b16e7b115f5ad5450cfdac",
+    "lang": "es",
+    "name": "Milenio Television (720p)"
+  },
+  {
+    "tvg_id": "EstrellaNews.us@SD",
+    "site": "pluto.tv",
+    "site_id": "60492e6d7f3f560007ab0f62",
+    "lang": "es",
+    "name": "Estrella News (1080p)"
+  },
+  {
+    "tvg_id": "TeleFormula.mx@SD",
+    "site": "gatotv.com",
+    "site_id": "teleformula",
+    "lang": "es",
+    "name": "TeleFormula (720p)"
+  },
+  {
+    "tvg_id": "Canal5.mx@SD",
+    "site": "mi.tv",
+    "site_id": "mx#xh-gc-canal-5",
+    "lang": "es",
+    "name": "Canal 5 (Mexico) (1080p)"
+  },
+  {
+    "tvg_id": "LasEstrellas.mx@SD",
+    "site": "gatotv.com",
+    "site_id": "de_las_estrellas_mexico",
+    "lang": "es",
+    "name": "Las Estrellas (1080p)"
+  },
+  {
+    "tvg_id": "AztecaInternacional.mx@SD",
+    "site": "plex.tv",
+    "site_id": "646d06c9b09f13b2d8af68d8",
+    "lang": "es",
+    "name": "Azteca Internacional (1080p)"
+  },
+  {
+    "tvg_id": "MexiquenseTV.mx@SD",
+    "site": "gatotv.com",
+    "site_id": "mexiquense_tv",
+    "lang": "es",
+    "name": "Mexiquense TV (720p)"
+  },
+  {
+    "tvg_id": "ITVDeportes.mx@SD",
+    "site": "plex.tv",
+    "site_id": "688d3402a6fe30698ab42007",
+    "lang": "es",
+    "name": "ITV Deportes (720p)"
+  },
+  {
+    "tvg_id": "TUDN.mx@SD",
+    "site": "gatotv.com",
+    "site_id": "tudn_mexico",
+    "lang": "es",
+    "name": "TUDN (Mexico) (1080p)"
+  },
+  {
+    "tvg_id": "AXNLatinAmerica.us@Mexico",
+    "site": "gatotv.com",
+    "site_id": "axn_mexico",
+    "lang": "es",
+    "name": "AXN Latin America Mexico"
+  },
+  {
+    "tvg_id": "GoldenPremier.mx@SD",
+    "site": "gatotv.com",
+    "site_id": "golden_premier",
+    "lang": "es",
+    "name": "Golden Premier"
+  },
+  {
+    "tvg_id": "bitMe.mx@SD",
+    "site": "gatotv.com",
+    "site_id": "bitme",
+    "lang": "es",
+    "name": "bitMe (1080p)"
+  },
+  {
+    "tvg_id": "ComedyCentralLatinAmerica.us@Panregional",
+    "site": "mi.tv",
+    "site_id": "ar#comedy-central",
+    "lang": "es",
+    "name": "Comedy Central Latin America (1080p)"
+  },
+  {
+    "tvg_id": "EstrellaGames.us@SD",
+    "site": "plex.tv",
+    "site_id": "64fb9149bb3e0baa5dcc0944",
+    "lang": "es",
+    "name": "Estrella Games (1080p)"
+  },
+  {
+    "tvg_id": "EstrellaTV.us@SD",
+    "site": "pluto.tv",
+    "site_id": "5cf0622da00ca1e2f6fac712",
+    "lang": "es",
+    "name": "Estrella TV (1080p)"
+  },
+  {
+    "tvg_id": "MTVLatinAmerica.us@Panregional",
+    "site": "gatotv.com",
+    "site_id": "mtv_sur",
+    "lang": "es",
+    "name": "MTV Latin America (1080p)"
+  },
+  {
+    "tvg_id": "DisneyJrLatinAmerica.ar@North",
+    "site": "gatotv.com",
+    "site_id": "disney_junior_norte",
+    "lang": "es",
+    "name": "Disney Jr. Latin America (1080p)"
+  },
+  {
+    "tvg_id": "NationalGeographic.mx@SD",
+    "site": "gatotv.com",
+    "site_id": "national_geographic_mexico",
+    "lang": "es",
+    "name": "National Geographic (Mexico) (1080p)"
+  },
+  {
+    "tvg_id": "beINSPORTSXTRA.us@SD",
+    "site": "plex.tv",
+    "site_id": "60a53634126de9002e694bc4",
+    "lang": "en",
+    "name": "beIN SPORTS XTRA (1080p)"
+  },
+  {
+    "tvg_id": "CBSSportsHQ.us@SD",
+    "site": "pluto.tv",
+    "site_id": "5e9f2c05172a0f0007db4786",
+    "lang": "en",
+    "name": "CBS Sports HQ (720p)"
+  },
+  {
+    "tvg_id": "NBCSportsNOW.us@SD",
+    "site": "plex.tv",
+    "site_id": "5fc70600598c41002da3dd43",
+    "lang": "en",
+    "name": "NBC Sports NOW (1080p)"
+  },
+  {
+    "tvg_id": "FuboSportsNetwork.us@SD",
+    "site": "plex.tv",
+    "site_id": "5fc705f68aba71002d8b7b37",
+    "lang": "en",
+    "name": "Fubo Sports Network (1080p)"
+  },
+  {
+    "tvg_id": "FoxSports1.us@HD",
+    "site": "tvguide.com",
+    "site_id": "9233008440",
+    "lang": "en",
+    "name": "Fox Sports 1 (720p)"
+  },
+  {
+    "tvg_id": "PlutoTVDeportes.us@LatAm",
+    "site": "pluto.tv",
+    "site_id": "5dcde07af1c85b0009b18651",
+    "lang": "es",
+    "name": "Pluto TV Deportes"
+  },
+  {
+    "tvg_id": "Stadium.us@SD",
+    "site": "plex.tv",
+    "site_id": "5f6142d2fc6ce20041ec3c92",
+    "lang": "en",
+    "name": "Stadium (720p)"
+  },
+  {
+    "tvg_id": "Teledeporte.es@SD",
+    "site": "gatotv.com",
+    "site_id": "teledeporte",
+    "lang": "es",
+    "name": "Teledeporte"
+  },
+  {
+    "tvg_id": "CBSSportsGolazoNetwork.us@SD",
+    "site": "pluto.tv",
+    "site_id": "63a0e33a45264d000850ed7e",
+    "lang": "en",
+    "name": "CBS Sports Golazo Network (720p)"
+  },
+  {
+    "tvg_id": "FIFAPlus.uk@English",
+    "site": "pluto.tv",
+    "site_id": "63d91d2560bc8f0008a225e4",
+    "lang": "en",
+    "name": "FIFA+ (720p)"
+  },
+  {
+    "tvg_id": "FIFAPlus.uk@HispanicAmerica",
+    "site": "plex.tv",
+    "site_id": "66633339ebeb02ee8bd1597c",
+    "lang": "es",
+    "name": "FIFA+ Hispanic America (720p)"
+  },
+  {
+    "tvg_id": "NFLChannel.us@SD",
+    "site": "pluto.tv",
+    "site_id": "5ced7d5df64be98e07ed47b6",
+    "lang": "en",
+    "name": "NFL Channel (720p)"
+  },
+  {
+    "tvg_id": "MLB.us@SD",
+    "site": "pluto.tv",
+    "site_id": "5e66968a70f34c0007d050be",
+    "lang": "en",
+    "name": "MLB (720p)"
+  },
+  {
+    "tvg_id": "ACCDigitalNetwork.us@SD",
+    "site": "plex.tv",
+    "site_id": "5f8ee3727c75fa002d9e47c1",
+    "lang": "en",
+    "name": "ACC Digital Network (1080p)"
+  },
+  {
+    "tvg_id": "Pac12Insider.us@SD",
+    "site": "plex.tv",
+    "site_id": "646c0dfbfb58444e4e1e262d",
+    "lang": "en",
+    "name": "Pac-12 Insider (1080p)"
+  },
+  {
+    "tvg_id": "NHRATV.us@SD",
+    "site": "plex.tv",
+    "site_id": "60aeb5cd87f9b1002ce12323",
+    "lang": "en",
+    "name": "NHRA TV (1080p)"
+  },
+  {
+    "tvg_id": "RedBullTV.at@ES",
+    "site": "watch.whaletvplus.com",
+    "site_id": "968808735454013032",
+    "lang": "es",
+    "name": "Red Bull TV ES (1080p)"
+  },
+  {
+    "tvg_id": "FUELTV.pt@EMEA",
+    "site": "plex.tv",
+    "site_id": "62ffc5cfa6cad6f2991745c2",
+    "lang": "en",
+    "name": "FUEL TV (1080p)"
+  },
+  {
+    "tvg_id": "BellatorMMA.us@SD",
+    "site": "pluto.tv",
+    "site_id": "5ebc8688f3697d00072f7cf8",
+    "lang": "en",
+    "name": "Bellator MMA"
+  },
+  {
+    "tvg_id": "PFLMMA.us@SD",
+    "site": "pluto.tv",
+    "site_id": "6334a574605f140007e233c4",
+    "lang": "en",
+    "name": "PFL MMA (720p)"
+  },
+  {
+    "tvg_id": "TennisChannel.us@SD",
+    "site": "pluto.tv",
+    "site_id": "6627621d56fc840008e47c90",
+    "lang": "en",
+    "name": "Tennis Channel (1080p)"
+  },
+  {
+    "tvg_id": "PGATour.us@SD",
+    "site": "pluto.tv",
+    "site_id": "5de94dacb394a300099fa22a",
+    "lang": "en",
+    "name": "PGA Tour (1080p)"
+  },
+  {
+    "tvg_id": "WillowSports.us@SD",
+    "site": "plex.tv",
+    "site_id": "66fbf9cf128ab3f65b259bcb",
+    "lang": "en",
+    "name": "Willow Sports (1080p)"
+  },
+  {
+    "tvg_id": "IONTV.us@East",
+    "site": "plex.tv",
+    "site_id": "624c37af6281708eabbbe26b",
+    "lang": "en",
+    "name": "ION TV (720p)"
+  },
+  {
+    "tvg_id": "GritXtra.us@SD",
+    "site": "plex.tv",
+    "site_id": "62b45f15b4508e0eedacdf25",
+    "lang": "en",
+    "name": "Grit Xtra (1080p)"
+  },
+  {
+    "tvg_id": "CBSNews247.us@SD",
+    "site": "pluto.tv",
+    "site_id": "5a6b92f6e22a617379789618",
+    "lang": "en",
+    "name": "CBS News 24/7 (720p)"
+  },
+  {
+    "tvg_id": "LiveNOWfromFOX.us@SD",
+    "site": "pluto.tv",
+    "site_id": "63d025db4e83e700086eaa96",
+    "lang": "en",
+    "name": "LiveNOW from FOX (720p)"
+  },
+  {
+    "tvg_id": "NBCNewsNOW.us@SD",
+    "site": "pluto.tv",
+    "site_id": "5df97894467dfa00091c873c",
+    "lang": "en",
+    "name": "NBC News NOW (1080p)"
+  },
+  {
+    "tvg_id": "ScrippsNews.us@SD",
+    "site": "pluto.tv",
+    "site_id": "5459795fc9f133a519bc0bef",
+    "lang": "en",
+    "name": "Scripps News (1080p)"
+  },
+  {
+    "tvg_id": "CheddarNews.us@SD",
+    "site": "plex.tv",
+    "site_id": "5f6b8e5900b0950040d0f2af",
+    "lang": "en",
+    "name": "Cheddar News (1080p)"
+  },
+  {
+    "tvg_id": "BloombergTV.us@US",
+    "site": "plex.tv",
+    "site_id": "6598baa010cb8b7793c6b3f8",
+    "lang": "en",
+    "name": "Bloomberg TV (1080p)"
+  },
+  {
+    "tvg_id": "AccuWeatherNOW.us@SD",
+    "site": "plex.tv",
+    "site_id": "6151d74593dbf246f0843f01",
+    "lang": "en",
+    "name": "AccuWeather NOW (1080p)"
+  },
+  {
+    "tvg_id": "FoxWeather.us@SD",
+    "site": "pluto.tv",
+    "site_id": "640a68880e884c0009979cc2",
+    "lang": "en",
+    "name": "Fox Weather (720p)"
+  },
+  {
+    "tvg_id": "BBCEarth.uk@US",
+    "site": "pluto.tv",
+    "site_id": "656535fc2c46f30008870fae",
+    "lang": "en",
+    "name": "BBC Earth US (1080p)"
+  },
+  {
+    "tvg_id": "CourtTV.us@SD",
+    "site": "pluto.tv",
+    "site_id": "5dae0b4841a7d0000938ddbd",
+    "lang": "en",
+    "name": "Court TV (1080p)"
+  },
+  {
+    "tvg_id": "Dateline247.us@SD",
+    "site": "plex.tv",
+    "site_id": "5fc70600598c41002da3dd19",
+    "lang": "en",
+    "name": "Dateline 24/7 (1080p)"
+  },
+  {
+    "tvg_id": "ForensicFiles.us@SD",
+    "site": "pluto.tv",
+    "site_id": "5bb1af6a268cae539bcedb0a",
+    "lang": "en",
+    "name": "Forensic Files"
+  },
+  {
+    "tvg_id": "HistoryHit.uk@SD",
+    "site": "plex.tv",
+    "site_id": "5f74cf83ffbe690040689f50",
+    "lang": "en",
+    "name": "History Hit (1080p)"
+  },
+  {
+    "tvg_id": "PlutoTVHistory.us@US",
+    "site": "pluto.tv",
+    "site_id": "5a4d35dfa5c02e717a234f86",
+    "lang": "en",
+    "name": "Pluto TV History"
+  },
+  {
+    "tvg_id": "PlutoTVScience.us@US",
+    "site": "pluto.tv",
+    "site_id": "563a970aa1a1f7fe7c9daad7",
+    "lang": "en",
+    "name": "Pluto TV Science (United States)"
+  },
+  {
+    "tvg_id": "SmithsonianChannelSelects.us@SD",
+    "site": "pluto.tv",
+    "site_id": "5f21ea08007a49000762d349",
+    "lang": "en",
+    "name": "Smithsonian Channel Selects (United States)"
+  },
+  {
+    "tvg_id": "PBSNature.us@SD",
+    "site": "pluto.tv",
+    "site_id": "640a64bd73e013000893d4e0",
+    "lang": "en",
+    "name": "PBS Nature (1080p)"
+  },
+  {
+    "tvg_id": "WorldPokerTour.us@US",
+    "site": "pluto.tv",
+    "site_id": "5616f9c0ada51f8004c4b091",
+    "lang": "en",
+    "name": "World Poker Tour (1080p)"
+  },
+  {
+    "tvg_id": "HallmarkMoviesMore.us@SD",
+    "site": "pluto.tv",
+    "site_id": "628e685ba3811100070551a8",
+    "lang": "en",
+    "name": "Hallmark Movies & More (1080p)"
+  },
+  {
+    "tvg_id": "ParamountMovieChannel.us@SD",
+    "site": "pluto.tv",
+    "site_id": "5cb0cae7a461406ffe3f5213",
+    "lang": "en",
+    "name": "Paramount Movie Channel"
+  },
+  {
+    "tvg_id": "ParamountPlusPicks.us@SD",
+    "site": "pluto.tv",
+    "site_id": "5ff8c708653d080007361b14",
+    "lang": "en",
+    "name": "Paramount+ Picks"
+  },
+  {
+    "tvg_id": "PlutoTVAction.us@US",
+    "site": "pluto.tv",
+    "site_id": "561d7d484dc7c8770484914a",
+    "lang": "en",
+    "name": "Pluto TV Action (United States)"
+  },
+  {
+    "tvg_id": "PlutoTVCrimeMovies.us@SD",
+    "site": "pluto.tv",
+    "site_id": "5f4d8594eb979c0007706de7",
+    "lang": "en",
+    "name": "Pluto TV Crime Movies"
+  },
+  {
+    "tvg_id": "PlutoTVCultFilms.us@US",
+    "site": "pluto.tv",
+    "site_id": "5c665db3e6c01b72c4977bc2",
+    "lang": "en",
+    "name": "Pluto TV Cult Films (United States)"
+  },
+  {
+    "tvg_id": "PlutoTVDrama.us@US",
+    "site": "pluto.tv",
+    "site_id": "5b4e92e4694c027be6ecece1",
+    "lang": "en",
+    "name": "Pluto TV Drama"
+  },
+  {
+    "tvg_id": "PlutoTVSpotlight.us@SD",
+    "site": "pluto.tv",
+    "site_id": "5ba3fb9c4b078e0f37ad34e8",
+    "lang": "en",
+    "name": "Pluto TV Spotlight"
+  },
+  {
+    "tvg_id": "PlutoTVThrillers.us@US",
+    "site": "pluto.tv",
+    "site_id": "5b4e69e08291147bd04a9fd7",
+    "lang": "en",
+    "name": "Pluto TV Thrillers (United States)"
+  },
+  {
+    "tvg_id": "PlutoTVWesterns.us@US",
+    "site": "pluto.tv",
+    "site_id": "5b4e94282d4ec87bdcbb87cd",
+    "lang": "en",
+    "name": "Pluto TV Westerns (United States)"
+  },
+  {
+    "tvg_id": "PlutoTVSciFi.us@US",
+    "site": "pluto.tv",
+    "site_id": "5b4fc274694c027be6ed3eea",
+    "lang": "en",
+    "name": "Pluto TV Sci-Fi (United States)"
+  },
+  {
+    "tvg_id": "PlutoTVHorror.us@US",
+    "site": "pluto.tv",
+    "site_id": "569546031a619b8f07ce6e25",
+    "lang": "en",
+    "name": "Pluto TV Horror (United States)"
+  },
+  {
+    "tvg_id": "PlutoTVRomance.us@US",
+    "site": "pluto.tv",
+    "site_id": "5a66795ef91fef2c7031c599",
+    "lang": "en",
+    "name": "Pluto TV Romance (United States)"
+  },
+  {
+    "tvg_id": "Baywatch.us@US",
+    "site": "plex.tv",
+    "site_id": "63e63f20abacad42ed3d1acf",
+    "lang": "en",
+    "name": "Baywatch (1080p)"
+  },
+  {
+    "tvg_id": "CSI.us@SD",
+    "site": "pluto.tv",
+    "site_id": "5efbd29e4aa26700076c0d06",
+    "lang": "en",
+    "name": "CSI (United States)"
+  },
+  {
+    "tvg_id": "DoctorWhoClassic.us@US",
+    "site": "pluto.tv",
+    "site_id": "5ce4475cd43850831ca91ce7",
+    "lang": "en",
+    "name": "Doctor Who Classic (1080p)"
+  },
+  {
+    "tvg_id": "MissionImpossible.us@SD",
+    "site": "pluto.tv",
+    "site_id": "5f77977bd924d80007eee60c",
+    "lang": "en",
+    "name": "Mission Impossible (United States)"
+  },
+  {
+    "tvg_id": "StarTrek.us@US",
+    "site": "pluto.tv",
+    "site_id": "5efbd39f8c4ce900075d7698",
+    "lang": "en",
+    "name": "Star Trek US"
+  },
+  {
+    "tvg_id": "Survivor.us@SD",
+    "site": "pluto.tv",
+    "site_id": "5f21e7b24744c60007c1f6fc",
+    "lang": "en",
+    "name": "Survivor (1080p)"
+  },
+  {
+    "tvg_id": "ThisOldHouse.us@SD",
+    "site": "pluto.tv",
+    "site_id": "5d51e791b7dba3b2ae990ab2",
+    "lang": "en",
+    "name": "This Old House (1080p)"
+  },
+  {
+    "tvg_id": "UnsolvedMysteries.us@US",
+    "site": "pluto.tv",
+    "site_id": "5b4e96a0423e067bd6df6901",
+    "lang": "en",
+    "name": "Unsolved Mysteries (720p)"
+  },
+  {
+    "tvg_id": "PlutoTVTheTwilightZone.us@SD",
+    "site": "pluto.tv",
+    "site_id": "67352ed93a61d4000881f9fa",
+    "lang": "en",
+    "name": "Pluto TV The Twilight Zone"
+  },
+  {
+    "tvg_id": "PlutoTVTrueCrime.us@US",
+    "site": "pluto.tv",
+    "site_id": "5812be1c249444e05d09cc50",
+    "lang": "en",
+    "name": "Pluto TV True Crime (United States)"
+  },
+  {
+    "tvg_id": "PBSAntiquesRoadshow.us@SD",
+    "site": "pluto.tv",
+    "site_id": "636c2b3c55d2e700074105c4",
+    "lang": "en",
+    "name": "PBS Antiques Roadshow (1080p)"
+  },
+  {
+    "tvg_id": "GameShowCentral.us@SD",
+    "site": "pluto.tv",
+    "site_id": "5e54187aae660e00093561d6",
+    "lang": "en",
+    "name": "Game Show Central (720p)"
+  },
+  {
+    "tvg_id": "MTVPlutoTV.us@US",
+    "site": "pluto.tv",
+    "site_id": "5ca672f515a62078d2ec0ad2",
+    "lang": "en",
+    "name": "MTV Pluto TV"
+  },
+  {
+    "tvg_id": "FailArmy.us@US",
+    "site": "pluto.tv",
+    "site_id": "554158e864526b29254ff105",
+    "lang": "en",
+    "name": "FailArmy (720p)"
+  },
+  {
+    "tvg_id": "PlutoTVComedy.us@US",
+    "site": "pluto.tv",
+    "site_id": "5a4d3a00ad95e4718ae8d8db",
+    "lang": "en",
+    "name": "Pluto TV Comedy"
+  },
+  {
+    "tvg_id": "JohnnyCarsonTV.us@SD",
+    "site": "plex.tv",
+    "site_id": "60d4edd6b2fdec002c141123",
+    "lang": "en",
+    "name": "Johnny Carson TV (720p)"
+  },
+  {
+    "tvg_id": "AmericasTestKitchen.us@SD",
+    "site": "pluto.tv",
+    "site_id": "5e84f54a82f05300080e6746",
+    "lang": "en",
+    "name": "America's Test Kitchen (720p)"
+  },
+  {
+    "tvg_id": "BBCFood.us@SD",
+    "site": "plex.tv",
+    "site_id": "630905af0417b7074a4ad95e",
+    "lang": "en",
+    "name": "BBC Food (1080p)"
+  },
+  {
+    "tvg_id": "Tastemade.us@US",
+    "site": "plex.tv",
+    "site_id": "5ef51c802ddee5003f1c0225",
+    "lang": "en",
+    "name": "Tastemade (1080p)"
+  },
+  {
+    "tvg_id": "Journy.us@SD",
+    "site": "plex.tv",
+    "site_id": "5f5132df62fe160040f26bc2",
+    "lang": "en",
+    "name": "Journy (720p)"
+  },
+  {
+    "tvg_id": "AE.us@East",
+    "site": "tvguide.com",
+    "site_id": "9200004889",
+    "lang": "en",
+    "name": "A&E"
+  },
+  {
+    "tvg_id": "NFLNetwork.us@SD",
+    "site": "tvguide.com",
+    "site_id": "9200004330",
+    "lang": "en",
+    "name": "NFL Network"
+  },
+  {
+    "tvg_id": "TeenNick.us@East",
+    "site": "tvguide.com",
+    "site_id": "9200006974",
+    "lang": "en",
+    "name": "TeenNick"
+  },
+  {
+    "tvg_id": "Nickelodeon.us@East",
+    "site": "tvguide.com",
+    "site_id": "9200006939",
+    "lang": "en",
+    "name": "Nickelodeon"
+  },
+  {
+    "tvg_id": "NickJr.us@East",
+    "site": "tvguide.com",
+    "site_id": "9233007153",
+    "lang": "en",
+    "name": "Nick Jr."
+  },
+  {
+    "tvg_id": "NHLNetwork.us@SD",
+    "site": "tvguide.com",
+    "site_id": "9233009455",
+    "lang": "en",
+    "name": "NHL Network"
+  },
+  {
+    "tvg_id": "NBATV.us@SD",
+    "site": "tvguide.com",
+    "site_id": "9200000070",
+    "lang": "en",
+    "name": "NBA TV"
+  },
+  {
+    "tvg_id": "Fox.us@East",
+    "site": "tvguide.com",
+    "site_id": "9233002271",
+    "lang": "en",
+    "name": "FOX"
+  },
+  {
+    "tvg_id": "BBCAmerica.us@East",
+    "site": "tvguide.com",
+    "site_id": "9200014701",
+    "lang": "en",
+    "name": "BBC America"
+  },
+  {
+    "tvg_id": "History.us@East",
+    "site": "tvguide.com",
+    "site_id": "9233008002",
+    "lang": "en",
+    "name": "History"
+  },
+  {
+    "tvg_id": "FoxBusinessNetwork.us@SD",
+    "site": "tvguide.com",
+    "site_id": "9200009124",
+    "lang": "en",
+    "name": "Fox Business Network"
+  },
+  {
+    "tvg_id": "FoxDeportes.us@SD",
+    "site": "gatotv.com",
+    "site_id": "fox_deportes",
+    "lang": "es",
+    "name": "Canal Fox Deportes"
+  },
+  {
+    "tvg_id": "NBC.us@East",
+    "site": "tvguide.com",
+    "site_id": "9233009876",
+    "lang": "en",
+    "name": "NBC National"
+  },
+  {
+    "tvg_id": "CineLatino.mx@SD",
+    "site": "mi.tv",
+    "site_id": "ar#cine-latino",
+    "lang": "es",
+    "name": "Cinelatino"
+  },
+  {
+    "tvg_id": "Lifetime.us@East",
+    "site": "tvguide.com",
+    "site_id": "9200020452",
+    "lang": "en",
+    "name": "Lifetime"
+  },
+  {
+    "tvg_id": "CNBC.us@SD",
+    "site": "tvguide.com",
+    "site_id": "9200009413",
+    "lang": "en",
+    "name": "CNBC"
+  },
+  {
+    "tvg_id": "NewsmaxTV.us@SD",
+    "site": "xumo.tv",
+    "site_id": "0#99991194",
+    "lang": "en",
+    "name": "Newsmax2"
+  },
+  {
+    "tvg_id": "Nicktoons.us@East",
+    "site": "tvguide.com",
+    "site_id": "9200020469",
+    "lang": "en",
+    "name": "Nicktoons"
+  },
+  {
+    "tvg_id": "ABC.us@East",
+    "site": "tvguide.com",
+    "site_id": "9233011874",
+    "lang": "en",
+    "name": "ABC Network Feed"
+  },
+  {
+    "tvg_id": "FoxNewsChannel.us@SD",
+    "site": "tvguide.com",
+    "site_id": "9233000410",
+    "lang": "en",
+    "name": "Fox News"
+  },
+  {
+    "tvg_id": "ComedyCentral.us@East",
+    "site": "tvguide.com",
+    "site_id": "9200000657",
+    "lang": "en",
+    "name": "Comedy Central"
+  },
+  {
+    "tvg_id": "NationalGeographic.us@East",
+    "site": "tvguide.com",
+    "site_id": "9233002310",
+    "lang": "en",
+    "name": "National Geographic"
+  },
+  {
+    "tvg_id": "LifetimeMovies.us@East",
+    "site": "tvguide.com",
+    "site_id": "9233009825",
+    "lang": "en",
+    "name": "LMN"
+  },
+  {
+    "tvg_id": "CBS.us@East",
+    "site": "tvguide.com",
+    "site_id": "9200018514",
+    "lang": "en",
+    "name": "CBS National"
+  }
+]

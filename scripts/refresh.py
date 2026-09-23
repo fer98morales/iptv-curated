@@ -88,7 +88,8 @@ def refresh_one(name: str, spec: dict) -> None:
     source_entries = parse_m3u(fetch(spec["source"]))
     by_id = {entry["tvg_id"]: entry for entry in source_entries}
 
-    output = ["#EXTM3U"]
+    epg_url = f"https://raw.githubusercontent.com/fer98morales/iptv-curated/main/epg/{name}.xml"
+    output = [f'#EXTM3U url-tvg="{epg_url}"']
     missing = []
 
     for channel in wanted:

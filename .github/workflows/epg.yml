@@ -1,0 +1,61 @@
+name: Refresh EPG guides
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/epg.yml'
+      - 'scripts/epg.py'
+      - 'config/epg.json'
+  schedule:
+    - cron: '43 5,17 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: curated-repository-refresh
+  cancel-in-progress: false
+
+jobs:
+  epg:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Check EPG publisher
+        run: python -m unittest discover -s tests
+      - name: Install pinned IPTV-org EPG tools
+        run: |
+          git init .epg-tools
+          git -C .epg-tools remote add origin https://github.com/iptv-org/epg.git
+          git -C .epg-tools fetch --depth 1 origin c5a88bcc6b09d75b32a0b22e6312db785cd9eb80
+          git -C .epg-tools checkout --detach FETCH_HEAD
+          cd .epg-tools
+          npm ci --ignore-scripts
+          npm run api:load
+      - name: Prepare exact channel and feed mappings
+        run: python scripts/epg.py --prepare .epg-tools/selected.channels.xml
+      - name: Download programme schedules
+        working-directory: .epg-tools
+        run: npm run grab -- --channels=selected.channels.xml --output=selected.xml --days=2 --maxConnections=4 --timeout=12000
+      - name: Validate and publish XMLTV
+        run: python scripts/epg.py --publish .epg-tools/selected.xml
+      - name: Record coverage
+        run: |
+          python -c 'import json,os; d=json.load(open("epg/status.json")); f=open(os.environ["GITHUB_STEP_SUMMARY"],"a"); f.write("## EPG coverage\n"+"\n".join(str(k)+": "+str(v["channels_with_programmes"])+"/"+str(v["total_channels"])+" channels" for k,v in d["playlists"].items())+"\n")'
+      - name: Commit updated guides
+        run: |
+          git add epg/
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'chore: refresh EPG guides'
+          git pull --rebase origin main
+          git push origin HEAD:main

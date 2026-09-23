@@ -99,3 +99,45 @@ later if their upstream streams recover.
 | More Sports | Willow Sports (1080p), ESPN8: The Ocho (1080p) |
 
 Source project: [IPTV-org](https://github.com/iptv-org/iptv)
+
+## Guia de programacion (EPG)
+
+Las tres playlists incluyen `url-tvg` en su encabezado. En NexoTV activa
+**Enable EPG**, selecciona **Auto-detect from playlist header** y deja
+**EPG Offset** en `0`. La programacion aparece en la ficha del canal en Stremio.
+
+Si una instalacion existente conserva la playlist en cache, configura de nuevo
+NexoTV con **Custom XMLTV URL**, usando la guia correspondiente, guarda e instala
+la configuracion actualizada. Las URLs de las playlists siguen siendo las mismas.
+
+| Playlist | XMLTV | Cobertura inicial comprobada (2026-09-23) |
+| --- | --- | --- |
+| Mexico | https://raw.githubusercontent.com/fer98morales/iptv-curated/main/epg/mexico.xml | 19/48 |
+| USA | https://raw.githubusercontent.com/fer98morales/iptv-curated/main/epg/usa.xml | 83/108 |
+| Sports | https://raw.githubusercontent.com/fer98morales/iptv-curated/main/epg/sports.xml | 26/38 |
+
+La cobertura actual y los canales sin datos se registran en
+[epg/status.json](epg/status.json). Una fuente identificada no garantiza que
+entregue horarios: solo se publican programas con titulo, fechas validas y
+un identificador que coincide exactamente con la senal de la playlist.
+Los canales sin EPG siguen disponibles para reproducir.
+
+El workflow **Refresh EPG guides** descarga dos dias de programacion a las
+05:43 y 17:43 UTC; tambien admite ejecucion manual desde Actions. Los horarios
+del planificador pueden retrasarse. Usa herramientas de
+[IPTV-org/epg](https://github.com/iptv-org/epg) fijadas al commit
+`c5a88bcc6b09d75b32a0b22e6312db785cd9eb80` y las fuentes comprobadas en
+`config/epg.json`. Las fuentes actuales incluyen Pluto TV, Plex, GatoTV,
+TV Guide y otras que figuran en esa configuracion. La programacion puede variar
+entre proveedores aunque compartan el identificador de una senal; comprueba
+el contenido real al reproducir.
+
+Si falla una fuente se conservan solamente sus programas anteriores que aun
+no hayan terminado. Si toda la descarga falla, el workflow falla y no sustituye
+las guias existentes por archivos vacios. No se inventa programacion ni se
+reutilizan horarios vencidos. Consulta Actions si la guia deja de actualizarse.
+Las fuentes pueden requerir mantenimiento cuando cambien sus sitios.
+
+Para reproducir el proceso localmente, sigue los pasos del workflow
+[epg.yml](.github/workflows/epg.yml). Para verificar el publicador:
+`python -m unittest discover -s tests`.

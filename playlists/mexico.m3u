@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/fer98morales/iptv-curated/main/epg/mexico.xml"
 #EXTINF:-1 tvg-id="ADN40.mx@SD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Mexico | News",ADN 40 (720p)
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="AcustikTV.mx@SD" tvg-logo="https://i.imgur.com/dhiNIng.png" group-title="Mexico | News",Acustik TV
