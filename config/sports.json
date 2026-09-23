@@ -1,0 +1,307 @@
+[
+  {
+    "tvg_id": "AztecaDeportesNetwork.mx@SD",
+    "group": "Sports | General & News",
+    "name": "Azteca Deportes Network (1080p)",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "tvg_id": "beINSPORTSXTRA.us@SD",
+    "group": "Sports | General & News",
+    "name": "beIN SPORTS XTRA (1080p)",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "tvg_id": "CBSSportsHQ.us@SD",
+    "group": "Sports | General & News",
+    "name": "CBS Sports HQ (720p)",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "tvg_id": "NBCSportsNOW.us@SD",
+    "group": "Sports | General & News",
+    "name": "NBC Sports NOW (1080p)",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "tvg_id": "FuboSportsNetwork.us@SD",
+    "group": "Sports | General & News",
+    "name": "Fubo Sports Network (1080p)",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "tvg_id": "FoxSports1.us@HD",
+    "group": "Sports | General & News",
+    "name": "Fox Sports 1 (720p)",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "tvg_id": "FoxDeportes.us@SD",
+    "group": "Sports | General & News",
+    "name": "Fox Deportes (720p)",
+    "languages": [
+      "spa",
+      "eng"
+    ]
+  },
+  {
+    "tvg_id": "PlutoTVDeportes.us@LatAm",
+    "group": "Sports | General & News",
+    "name": "Pluto TV Deportes",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "tvg_id": "Stadium.us@SD",
+    "group": "Sports | General & News",
+    "name": "Stadium (720p)",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "tvg_id": "Teledeporte.es@SD",
+    "group": "Sports | General & News",
+    "name": "Teledeporte",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "tvg_id": "CBSSportsGolazoNetwork.us@SD",
+    "group": "Sports | Football",
+    "name": "CBS Sports Golazo Network (720p)",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "tvg_id": "FIFAPlus.uk@English",
+    "group": "Sports | Football",
+    "name": "FIFA+ (720p)",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "tvg_id": "FIFAPlus.uk@HispanicAmerica",
+    "group": "Sports | Football",
+    "name": "FIFA+ Hispanic America (720p)",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "tvg_id": "FIFAPlusWomen.uk@English",
+    "group": "Sports | Football",
+    "name": "FIFA+ Women (720p)",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "tvg_id": "RealMadridTVEnglish.es@SD",
+    "group": "Sports | Football",
+    "name": "Real Madrid TV English",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "tvg_id": "NBATV.us@SD",
+    "group": "Sports | US Leagues & College",
+    "name": "NBA TV (1080p)",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "tvg_id": "NFLChannel.us@SD",
+    "group": "Sports | US Leagues & College",
+    "name": "NFL Channel (720p)",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "tvg_id": "MLB.us@SD",
+    "group": "Sports | US Leagues & College",
+    "name": "MLB (720p)",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "tvg_id": "NHLNetwork.us@SD",
+    "group": "Sports | US Leagues & College",
+    "name": "NHL Network (1080p)",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "tvg_id": "ACCDigitalNetwork.us@SD",
+    "group": "Sports | US Leagues & College",
+    "name": "ACC Digital Network (1080p)",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "tvg_id": "ESPNU.us@HD",
+    "group": "Sports | US Leagues & College",
+    "name": "ESPNU HD (720p)",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "tvg_id": "Pac12Insider.us@SD",
+    "group": "Sports | US Leagues & College",
+    "name": "Pac-12 Insider (1080p)",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "tvg_id": "RallyTV.us@SD",
+    "group": "Sports | Motorsports & Action",
+    "name": "Rally TV (1080p)",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "tvg_id": "NHRATV.us@SD",
+    "group": "Sports | Motorsports & Action",
+    "name": "NHRA TV (1080p)",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "tvg_id": "FloRacing.us@HD",
+    "group": "Sports | Motorsports & Action",
+    "name": "FloRacing (1080p)",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "tvg_id": "RedBullTV.at@US",
+    "group": "Sports | Motorsports & Action",
+    "name": "Red Bull TV US (1080p)",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "tvg_id": "RedBullTV.at@ES",
+    "group": "Sports | Motorsports & Action",
+    "name": "Red Bull TV ES (1080p)",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "tvg_id": "FUELTV.pt@EMEA",
+    "group": "Sports | Motorsports & Action",
+    "name": "FUEL TV (1080p)",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "tvg_id": "DAZNCombat.uk@SD",
+    "group": "Sports | Combat Sports",
+    "name": "DAZN Combat (684p)",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "tvg_id": "BellatorMMA.us@SD",
+    "group": "Sports | Combat Sports",
+    "name": "Bellator MMA",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "tvg_id": "PFLMMA.us@SD",
+    "group": "Sports | Combat Sports",
+    "name": "PFL MMA (720p)",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "tvg_id": "FITE247.us@SD",
+    "group": "Sports | Combat Sports",
+    "name": "FITE 24/7 (1080p)",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "tvg_id": "SwerveCombat.us@SD",
+    "group": "Sports | Combat Sports",
+    "name": "Swerve Combat (1080p)",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "tvg_id": "TennisChannel.us@SD",
+    "group": "Sports | Tennis & Golf",
+    "name": "Tennis Channel (1080p)",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "tvg_id": "TennisChannel2.us@SD",
+    "group": "Sports | Tennis & Golf",
+    "name": "Tennis Channel 2 (1080p)",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "tvg_id": "PGATour.us@SD",
+    "group": "Sports | Tennis & Golf",
+    "name": "PGA Tour (1080p)",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "tvg_id": "WillowSports.us@SD",
+    "group": "Sports | More Sports",
+    "name": "Willow Sports (1080p)",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "tvg_id": "ESPN8TheOcho.us@ESPN8TheOchoHD",
+    "group": "Sports | More Sports",
+    "name": "ESPN8: The Ocho (1080p)",
+    "languages": [
+      "eng"
+    ]
+  }
+]

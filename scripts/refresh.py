@@ -5,6 +5,7 @@ Refresh curated IPTV-org playlists while preserving the local whitelist.
 Sources:
   https://iptv-org.github.io/iptv/countries/mx.m3u
   https://iptv-org.github.io/iptv/countries/us.m3u
+  https://iptv-org.github.io/iptv/categories/sports.m3u
 
 The config files contain tvg-id values selected for each playlist.
 If IPTV-org changes the stream URL/logo/name for a selected channel,
@@ -20,6 +21,11 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 
 PLAYLISTS = {
+    "sports": {
+        "source": "https://iptv-org.github.io/iptv/categories/sports.m3u",
+        "config": ROOT / "config" / "sports.json",
+        "output": ROOT / "playlists" / "sports.m3u",
+    },
     "mexico": {
         "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
         "config": ROOT / "config" / "mexico.json",
