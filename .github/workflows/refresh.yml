@@ -1,0 +1,39 @@
+name: Refresh curated IPTV playlists
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 12:17 UTC = 06:17 in Monterrey during CST.
+    # An off-minute reduces contention on GitHub's scheduler.
+    - cron: "17 12 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Refresh playlists
+        run: python scripts/refresh.py
+
+      - name: Commit changes
+        run: |
+          if git diff --quiet; then
+            echo "No upstream changes."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add playlists/
+          git commit -m "chore: refresh IPTV-org playlists"
+          git push

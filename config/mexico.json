@@ -1,0 +1,242 @@
+[
+  {
+    "tvg_id": "ADN40.mx@SD",
+    "group": "Mexico | News",
+    "name": "ADN 40 (720p)"
+  },
+  {
+    "tvg_id": "AcustikTV.mx@SD",
+    "group": "Mexico | News",
+    "name": "Acustik TV"
+  },
+  {
+    "tvg_id": "MilenioTelevision.mx@SD",
+    "group": "Mexico | News",
+    "name": "Milenio Television (720p)"
+  },
+  {
+    "tvg_id": "EstrellaNews.us@SD",
+    "group": "Mexico | News",
+    "name": "Estrella News (1080p)"
+  },
+  {
+    "tvg_id": "TeleFormula.mx@SD",
+    "group": "Mexico | News",
+    "name": "TeleFormula (720p)"
+  },
+  {
+    "tvg_id": "Canal5.mx@SD",
+    "group": "Mexico | Mainstream",
+    "name": "Canal 5 (Mexico) (1080p)"
+  },
+  {
+    "tvg_id": "ImagenTV.mx@SD",
+    "group": "Mexico | Mainstream",
+    "name": "Imagen TV (1080p)"
+  },
+  {
+    "tvg_id": "LasEstrellas.mx@SD",
+    "group": "Mexico | Mainstream",
+    "name": "Las Estrellas (1080p)"
+  },
+  {
+    "tvg_id": "AztecaInternacional.mx@SD",
+    "group": "Mexico | Mainstream",
+    "name": "Azteca Internacional (1080p)"
+  },
+  {
+    "tvg_id": "MexiquenseTV.mx@SD",
+    "group": "Mexico | Mainstream",
+    "name": "Mexiquense TV (720p)"
+  },
+  {
+    "tvg_id": "MultimediosMonterrey.mx@SD",
+    "group": "Mexico | Mainstream",
+    "name": "Multimedios Monterrey (720p) [Not 24/7]"
+  },
+  {
+    "tvg_id": "MultimediosCDMX.mx@SD",
+    "group": "Mexico | Mainstream",
+    "name": "Multimedios CDMX (720p) [Not 24/7]"
+  },
+  {
+    "tvg_id": "Canal22Nacional.mx@SD",
+    "group": "Mexico | Culture & Public",
+    "name": "Canal 22 Nacional (720p) [Geo-blocked]"
+  },
+  {
+    "tvg_id": "Capital21.mx@SD",
+    "group": "Mexico | Culture & Public",
+    "name": "Capital 21 (1080p) [Not 24/7]"
+  },
+  {
+    "tvg_id": "JaliscoTV.mx@SD",
+    "group": "Mexico | Culture & Public",
+    "name": "Jalisco TV (720p)"
+  },
+  {
+    "tvg_id": "ILCECanal15SummaSaberes.mx@SD",
+    "group": "Mexico | Culture & Public",
+    "name": "ILCE Canal 15 Summa Saberes (720p)"
+  },
+  {
+    "tvg_id": "TVBUAP.mx@SD",
+    "group": "Mexico | Culture & Public",
+    "name": "TV BUAP (1080p)"
+  },
+  {
+    "tvg_id": "TVCuatro41.mx@SD",
+    "group": "Mexico | Culture & Public",
+    "name": "TV Cuatro 4.1 (1080p)"
+  },
+  {
+    "tvg_id": "TVCuatro42.mx@SD",
+    "group": "Mexico | Culture & Public",
+    "name": "TV Cuatro 4.2 (1080p)"
+  },
+  {
+    "tvg_id": "TVCuatro44.mx@SD",
+    "group": "Mexico | Culture & Public",
+    "name": "TV Cuatro 4.4 (1080p)"
+  },
+  {
+    "tvg_id": "UAATV.mx@SD",
+    "group": "Mexico | Culture & Public",
+    "name": "UAA TV (1080p)"
+  },
+  {
+    "tvg_id": "AztecaDeportesNetwork.mx@SD",
+    "group": "Mexico | Sports",
+    "name": "Azteca Deportes Network (1080p)"
+  },
+  {
+    "tvg_id": "ITVDeportes.mx@SD",
+    "group": "Mexico | Sports",
+    "name": "ITV Deportes (720p)"
+  },
+  {
+    "tvg_id": "TUDN.mx@SD",
+    "group": "Mexico | Sports",
+    "name": "TUDN (Mexico) (1080p)"
+  },
+  {
+    "tvg_id": "TVCuatro43.mx@SD",
+    "group": "Mexico | Sports",
+    "name": "TV Cuatro 4.3 (1080p)"
+  },
+  {
+    "tvg_id": "AXNLatinAmerica.us@Mexico",
+    "group": "Mexico | Movies & Series",
+    "name": "AXN Latin America Mexico"
+  },
+  {
+    "tvg_id": "CineLatino.mx@SD",
+    "group": "Mexico | Movies & Series",
+    "name": "CineLatino (720p)"
+  },
+  {
+    "tvg_id": "GoldenPremier.mx@SD",
+    "group": "Mexico | Movies & Series",
+    "name": "Golden Premier"
+  },
+  {
+    "tvg_id": "MyTimeMovieNetwork.mx@SD",
+    "group": "Mexico | Movies & Series",
+    "name": "MyTime Movie Network (Mexico) (720p)"
+  },
+  {
+    "tvg_id": "PopcornCentral.mx@SD",
+    "group": "Mexico | Movies & Series",
+    "name": "Popcorn Central (1080p)"
+  },
+  {
+    "tvg_id": "bitMe.mx@SD",
+    "group": "Mexico | Entertainment",
+    "name": "bitMe (1080p)"
+  },
+  {
+    "tvg_id": "ComedyCentralLatinAmerica.us@Panregional",
+    "group": "Mexico | Entertainment",
+    "name": "Comedy Central Latin America (1080p)"
+  },
+  {
+    "tvg_id": "ELatinAmerica.us@Mexico",
+    "group": "Mexico | Entertainment",
+    "name": "E! Latin America Mexico (720p)"
+  },
+  {
+    "tvg_id": "EstrellaGames.us@SD",
+    "group": "Mexico | Entertainment",
+    "name": "Estrella Games (1080p)"
+  },
+  {
+    "tvg_id": "EstrellaTV.us@SD",
+    "group": "Mexico | Entertainment",
+    "name": "Estrella TV (1080p)"
+  },
+  {
+    "tvg_id": "MTVLatinAmerica.us@Panregional",
+    "group": "Mexico | Entertainment",
+    "name": "MTV Latin America (1080p)"
+  },
+  {
+    "tvg_id": "ZAZ.mx@SD",
+    "group": "Mexico | Entertainment",
+    "name": "ZAZ (1080p)"
+  },
+  {
+    "tvg_id": "DisneyChannelLatinAmerica.ar@Mexico",
+    "group": "Mexico | Kids",
+    "name": "Disney Channel Latin America Mexico (720p)"
+  },
+  {
+    "tvg_id": "DisneyJrLatinAmerica.ar@North",
+    "group": "Mexico | Kids",
+    "name": "Disney Jr. Latin America (1080p)"
+  },
+  {
+    "tvg_id": "ElChavoTV.mx@HD",
+    "group": "Mexico | Kids",
+    "name": "El Chavo TV (720p)"
+  },
+  {
+    "tvg_id": "NationalGeographic.mx@SD",
+    "group": "Mexico | Documentary",
+    "name": "National Geographic (Mexico) (1080p)"
+  },
+  {
+    "tvg_id": "ExaTV.mx@SD",
+    "group": "Mexico | Music",
+    "name": "Exa TV"
+  },
+  {
+    "tvg_id": "ConectaTV.mx@SD",
+    "group": "Mexico | Music",
+    "name": "Conecta TV (720p)"
+  },
+  {
+    "tvg_id": "RCGTV.mx@SD",
+    "group": "Mexico | Regional",
+    "name": "RCG TV (1080p)"
+  },
+  {
+    "tvg_id": "RTQQueretaro.mx@SD",
+    "group": "Mexico | Regional",
+    "name": "RTQ Queretaro (1080p)"
+  },
+  {
+    "tvg_id": "Telemax.mx@XEWHTDT",
+    "group": "Mexico | Regional",
+    "name": "Telemax (Mexico) XEWH-TDT (1080p)"
+  },
+  {
+    "tvg_id": "TVGuanajuato.mx@SD",
+    "group": "Mexico | Regional",
+    "name": "TV Guanajuato (720p)"
+  },
+  {
+    "tvg_id": "SQCSCanal4.mx@SD",
+    "group": "Mexico | Regional",
+    "name": "SQCS Canal 4 (1080p)"
+  }
+]

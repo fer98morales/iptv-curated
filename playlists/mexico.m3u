@@ -1,0 +1,97 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ADN40.mx@SD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Mexico | News",ADN 40 (720p)
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-id="AcustikTV.mx@SD" tvg-logo="https://i.imgur.com/dhiNIng.png" group-title="Mexico | News",Acustik TV
+https://s5.mexside.net:1936/clientetv/clientetv/playlist.m3u8
+#EXTINF:-1 tvg-id="MilenioTelevision.mx@SD" tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="Mexico | News",Milenio Television (720p)
+https://jmp2.uk/plu-652e922db4b047000825f975.m3u8
+#EXTINF:-1 tvg-id="EstrellaNews.us@SD" tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="Mexico | News",Estrella News (1080p)
+https://estrella-news-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleFormula.mx@SD" tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="Mexico | News",TeleFormula (720p)
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+#EXTINF:-1 tvg-id="Canal5.mx@SD" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Mexico | Mainstream",Canal 5 (Mexico) (1080p)
+http://45.181.87.106/CANAL5HD/index.m3u8
+#EXTINF:-1 tvg-id="ImagenTV.mx@SD" tvg-logo="https://i.imgur.com/lKrRvtS.png" group-title="Mexico | Mainstream",Imagen TV (1080p)
+https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
+#EXTINF:-1 tvg-id="LasEstrellas.mx@SD" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Mexico | Mainstream",Las Estrellas (1080p)
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-id="AztecaInternacional.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="Mexico | Mainstream",Azteca Internacional (1080p)
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-id="MexiquenseTV.mx@SD" tvg-logo="https://i.imgur.com/iVfzakA.png" group-title="Mexico | Mainstream",Mexiquense TV (720p)
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1 tvg-id="MultimediosMonterrey.mx@SD" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Mexico | Mainstream",Multimedios Monterrey (720p) [Not 24/7]
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-id="MultimediosCDMX.mx@SD" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Mexico | Mainstream",Multimedios CDMX (720p) [Not 24/7]
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF:-1 tvg-id="Canal22Nacional.mx@SD" tvg-logo="https://i.imgur.com/6qiYvhe.png" group-title="Mexico | Culture & Public",Canal 22 Nacional (720p) [Geo-blocked]
+https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Capital21.mx@SD" tvg-logo="https://i.imgur.com/8ign49i.png" group-title="Mexico | Culture & Public",Capital 21 (1080p) [Not 24/7]
+https://video.cdmx.gob.mx/redes/stream.m3u8
+#EXTINF:-1 tvg-id="JaliscoTV.mx@SD" tvg-logo="https://i.imgur.com/N4meE8I.png" group-title="Mexico | Culture & Public",Jalisco TV (720p)
+https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
+#EXTINF:-1 tvg-id="ILCECanal15SummaSaberes.mx@SD" tvg-logo="https://i.imgur.com/r7czgOc.png" group-title="Mexico | Culture & Public",ILCE Canal 15 Summa Saberes (720p)
+https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBUAP.mx@SD" tvg-logo="https://i.imgur.com/hHrIn0r.png" group-title="Mexico | Culture & Public",TV BUAP (1080p)
+https://tvenvivo.buap.mx/livestream/stream/index.m3u8
+#EXTINF:-1 tvg-id="TVCuatro41.mx@SD" tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="Mexico | Culture & Public",TV Cuatro 4.1 (1080p)
+https://5ca3e84a76d30.streamlock.net/tv4gto/tv4gto.smil/.m3u8
+#EXTINF:-1 tvg-id="TVCuatro42.mx@SD" tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="Mexico | Culture & Public",TV Cuatro 4.2 (1080p)
+https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
+#EXTINF:-1 tvg-id="TVCuatro44.mx@SD" tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="Mexico | Culture & Public",TV Cuatro 4.4 (1080p)
+https://5ca3e84a76d30.streamlock.net/tv44gto/tv44gto.smil/.m3u8
+#EXTINF:-1 tvg-id="UAATV.mx@SD" tvg-logo="https://i.imgur.com/brCSiGh.png" group-title="Mexico | Culture & Public",UAA TV (1080p)
+https://5fe2654d6127d.streamlock.net:443/uaa2/videouaa2/playlist.m3u8
+#EXTINF:-1 tvg-id="AztecaDeportesNetwork.mx@SD" tvg-logo="https://match-images.icdb.tv/5913207f2494844101287828e87625eb.jpg" group-title="Mexico | Sports",Azteca Deportes Network (1080p)
+http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
+#EXTINF:-1 tvg-id="ITVDeportes.mx@SD" tvg-logo="https://iili.io/J1kV1Bn.png" group-title="Mexico | Sports",ITV Deportes (720p)
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+#EXTINF:-1 tvg-id="TUDN.mx@SD" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Mexico | Sports",TUDN (Mexico) (1080p)
+https://streaming.alwaysdata.net/tudn.php
+#EXTINF:-1 tvg-id="TVCuatro43.mx@SD" tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="Mexico | Sports",TV Cuatro 4.3 (1080p)
+https://5ca3e84a76d30.streamlock.net/tv43gto/tv43gto.smil/.m3u8
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us@Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Mexico | Movies & Series",AXN Latin America Mexico
+http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="CineLatino.mx@SD" tvg-logo="https://i.imgur.com/2V0R0xT.png" group-title="Mexico | Movies & Series",CineLatino (720p)
+http://45.162.193.35/CINELATINO_HD/index.m3u8
+#EXTINF:-1 tvg-id="GoldenPremier.mx@SD" tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Mexico | Movies & Series",Golden Premier
+https://xyktmobile00.s.gy/PPV902_GOLDENP1_HD
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.mx@SD" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Mexico | Movies & Series",MyTime Movie Network (Mexico) (720p)
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PopcornCentral.mx@SD" tvg-logo="https://i.imgur.com/ULGVjyC.png" group-title="Mexico | Movies & Series",Popcorn Central (1080p)
+https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
+#EXTINF:-1 tvg-id="bitMe.mx@SD" tvg-logo="https://i.imgur.com/79hrcx8.png" group-title="Mexico | Entertainment",bitMe (1080p)
+https://cablered.iptvperu.tv:1936/cablered/bitme-srt_new/playlist.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="Mexico | Entertainment",Comedy Central Latin America (1080p)
+http://15.204.246.24:8080/ComedyCentralHD/index.m3u8
+#EXTINF:-1 tvg-id="ELatinAmerica.us@Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png" group-title="Mexico | Entertainment",E! Latin America Mexico (720p)
+http://72.1.184.5:8089/play/a05d/index.m3u8
+#EXTINF:-1 tvg-id="EstrellaGames.us@SD" tvg-logo="https://i.imgur.com/Z52nEnH.png" group-title="Mexico | Entertainment",Estrella Games (1080p)
+https://estrella-games-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EstrellaTV.us@SD" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Mexico | Entertainment",Estrella TV (1080p)
+https://estrellatv-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MTVLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" group-title="Mexico | Entertainment",MTV Latin America (1080p)
+http://15.204.246.24:8080/MTVHD/index.m3u8
+#EXTINF:-1 tvg-id="ZAZ.mx@SD" tvg-logo="" group-title="Mexico | Entertainment",ZAZ (1080p)
+https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Mexico | Kids",Disney Channel Latin America Mexico (720p)
+http://45.166.93.156:9999/play/a0f3/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@North" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Mexico | Kids",Disney Jr. Latin America (1080p)
+http://190.14.10.19:16000/play/a02d/index.m3u8
+#EXTINF:-1 tvg-id="ElChavoTV.mx@HD" tvg-logo="https://gia.tv/streams/pptv/211465.png" group-title="Mexico | Kids",El Chavo TV (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Mexico | Documentary",National Geographic (Mexico) (1080p)
+http://138.121.15.230:9002/NAT-GEO/index.m3u8
+#EXTINF:-1 tvg-id="ExaTV.mx@SD" tvg-logo="https://i.imgur.com/JWOqr1a.png" group-title="Mexico | Music",Exa TV
+http://190.61.90.17:40000/play/a0hk/index.m3u8
+#EXTINF:-1 tvg-id="ConectaTV.mx@SD" tvg-logo="https://i.imgur.com/qEk0QGa.png" group-title="Mexico | Music",Conecta TV (720p)
+https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
+#EXTINF:-1 tvg-id="RCGTV.mx@SD" tvg-logo="https://i.imgur.com/kYtAR26.png" group-title="Mexico | Regional",RCG TV (1080p)
+https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
+#EXTINF:-1 tvg-id="RTQQueretaro.mx@SD" tvg-logo="https://i.imgur.com/RRckCvf.png" group-title="Mexico | Regional",RTQ Queretaro (1080p)
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8
+#EXTINF:-1 tvg-id="Telemax.mx@XEWHTDT" tvg-logo="https://i.imgur.com/klhTyDU.png" group-title="Mexico | Regional",Telemax (Mexico) XEWH-TDT (1080p)
+https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGuanajuato.mx@SD" tvg-logo="https://i.imgur.com/HbnCZSF.png" group-title="Mexico | Regional",TV Guanajuato (720p)
+https://stream.oursnetworktv.com/latin/tvguanajuato/playlist.m3u8
+#EXTINF:-1 tvg-id="SQCSCanal4.mx@SD" tvg-logo="https://i.imgur.com/qnx8nBP.png" group-title="Mexico | Regional",SQCS Canal 4 (1080p)
+https://video0.rogohosting.com:19360/4982/4982.m3u8

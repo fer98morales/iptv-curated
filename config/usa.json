@@ -1,0 +1,542 @@
+[
+  {
+    "tvg_id": "ABC.us@East",
+    "group": "USA | Networks",
+    "name": "ABC (1080p)"
+  },
+  {
+    "tvg_id": "CBS.us@East",
+    "group": "USA | Networks",
+    "name": "CBS (1080p)"
+  },
+  {
+    "tvg_id": "NBC.us@East",
+    "group": "USA | Networks",
+    "name": "NBC (1080p)"
+  },
+  {
+    "tvg_id": "Fox.us@East",
+    "group": "USA | Networks",
+    "name": "Fox (United States) (720p)"
+  },
+  {
+    "tvg_id": "Telemundo.us@EastHD",
+    "group": "USA | Networks",
+    "name": "Telemundo East HD (1080p)"
+  },
+  {
+    "tvg_id": "Univision.us@EastHD",
+    "group": "USA | Networks",
+    "name": "Univision East HD (1080p)"
+  },
+  {
+    "tvg_id": "PBS.us@KQED",
+    "group": "USA | Networks",
+    "name": "PBS KQED (1080p)"
+  },
+  {
+    "tvg_id": "MeTV.us@SD",
+    "group": "USA | Networks",
+    "name": "MeTV (720p)"
+  },
+  {
+    "tvg_id": "IONTV.us@East",
+    "group": "USA | Networks",
+    "name": "ION TV (720p)"
+  },
+  {
+    "tvg_id": "Comet.us@SD",
+    "group": "USA | Networks",
+    "name": "Comet (1080p)"
+  },
+  {
+    "tvg_id": "Charge.us@SD",
+    "group": "USA | Networks",
+    "name": "Charge! (1080p)"
+  },
+  {
+    "tvg_id": "Bounce.us@SD",
+    "group": "USA | Networks",
+    "name": "Bounce (720p)"
+  },
+  {
+    "tvg_id": "Laff.us@SD",
+    "group": "USA | Networks",
+    "name": "Laff (576p)"
+  },
+  {
+    "tvg_id": "GritXtra.us@SD",
+    "group": "USA | Networks",
+    "name": "Grit Xtra (1080p)"
+  },
+  {
+    "tvg_id": "ABCNewsLive1.us@SD",
+    "group": "USA | News & Business",
+    "name": "ABC News Live 1 (720p)"
+  },
+  {
+    "tvg_id": "CBSNews247.us@SD",
+    "group": "USA | News & Business",
+    "name": "CBS News 24/7 (720p)"
+  },
+  {
+    "tvg_id": "FoxNewsChannel.us@SD",
+    "group": "USA | News & Business",
+    "name": "Fox News Channel (720p)"
+  },
+  {
+    "tvg_id": "LiveNOWfromFOX.us@SD",
+    "group": "USA | News & Business",
+    "name": "LiveNOW from FOX (720p)"
+  },
+  {
+    "tvg_id": "NBCNewsNOW.us@SD",
+    "group": "USA | News & Business",
+    "name": "NBC News NOW (1080p)"
+  },
+  {
+    "tvg_id": "ReutersTV.us@SD",
+    "group": "USA | News & Business",
+    "name": "Reuters TV (1080p)"
+  },
+  {
+    "tvg_id": "ScrippsNews.us@SD",
+    "group": "USA | News & Business",
+    "name": "Scripps News (1080p)"
+  },
+  {
+    "tvg_id": "CheddarNews.us@SD",
+    "group": "USA | News & Business",
+    "name": "Cheddar News (1080p)"
+  },
+  {
+    "tvg_id": "NewsmaxTV.us@SD",
+    "group": "USA | News & Business",
+    "name": "Newsmax TV (720p)"
+  },
+  {
+    "tvg_id": "BloombergTV.us@US",
+    "group": "USA | News & Business",
+    "name": "Bloomberg TV (1080p)"
+  },
+  {
+    "tvg_id": "CNBC.us@SD",
+    "group": "USA | News & Business",
+    "name": "CNBC (720p)"
+  },
+  {
+    "tvg_id": "FoxBusinessNetwork.us@SD",
+    "group": "USA | News & Business",
+    "name": "Fox Business Network (720p)"
+  },
+  {
+    "tvg_id": "AccuWeatherNOW.us@SD",
+    "group": "USA | Weather",
+    "name": "AccuWeather NOW (1080p)"
+  },
+  {
+    "tvg_id": "FoxWeather.us@SD",
+    "group": "USA | Weather",
+    "name": "Fox Weather (720p)"
+  },
+  {
+    "tvg_id": "WeatherNation.us@SD",
+    "group": "USA | Weather",
+    "name": "WeatherNation (1080p)"
+  },
+  {
+    "tvg_id": "BBCEarth.uk@US",
+    "group": "USA | Documentary & Science",
+    "name": "BBC Earth US (1080p)"
+  },
+  {
+    "tvg_id": "CourtTV.us@SD",
+    "group": "USA | Documentary & Science",
+    "name": "Court TV (1080p)"
+  },
+  {
+    "tvg_id": "Dateline247.us@SD",
+    "group": "USA | Documentary & Science",
+    "name": "Dateline 24/7 (1080p)"
+  },
+  {
+    "tvg_id": "ForensicFiles.us@SD",
+    "group": "USA | Documentary & Science",
+    "name": "Forensic Files"
+  },
+  {
+    "tvg_id": "History.us@East",
+    "group": "USA | Documentary & Science",
+    "name": "History (United States) (720p)"
+  },
+  {
+    "tvg_id": "HistoryHit.uk@SD",
+    "group": "USA | Documentary & Science",
+    "name": "History Hit (1080p)"
+  },
+  {
+    "tvg_id": "NationalGeographic.us@East",
+    "group": "USA | Documentary & Science",
+    "name": "National Geographic (United States) (720p)"
+  },
+  {
+    "tvg_id": "NationalGeographicWild.us@HDEast",
+    "group": "USA | Documentary & Science",
+    "name": "National Geographic Wild (United States) HD East (720p)"
+  },
+  {
+    "tvg_id": "PlutoTVHistory.us@US",
+    "group": "USA | Documentary & Science",
+    "name": "Pluto TV History"
+  },
+  {
+    "tvg_id": "PlutoTVScience.us@US",
+    "group": "USA | Documentary & Science",
+    "name": "Pluto TV Science (United States)"
+  },
+  {
+    "tvg_id": "SmithsonianChannelSelects.us@SD",
+    "group": "USA | Documentary & Science",
+    "name": "Smithsonian Channel Selects (United States)"
+  },
+  {
+    "tvg_id": "PBSNature.us@SD",
+    "group": "USA | Documentary & Science",
+    "name": "PBS Nature (1080p)"
+  },
+  {
+    "tvg_id": "beINSPORTSXTRA.us@SD",
+    "group": "USA | Sports",
+    "name": "beIN SPORTS XTRA (1080p)"
+  },
+  {
+    "tvg_id": "CBSSportsGolazoNetwork.us@SD",
+    "group": "USA | Sports",
+    "name": "CBS Sports Golazo Network (720p)"
+  },
+  {
+    "tvg_id": "CBSSportsHQ.us@SD",
+    "group": "USA | Sports",
+    "name": "CBS Sports HQ (720p)"
+  },
+  {
+    "tvg_id": "FoxSports1.us@HD",
+    "group": "USA | Sports",
+    "name": "Fox Sports 1 (720p)"
+  },
+  {
+    "tvg_id": "FuboSportsNetwork.us@SD",
+    "group": "USA | Sports",
+    "name": "Fubo Sports Network (1080p)"
+  },
+  {
+    "tvg_id": "MLB.us@SD",
+    "group": "USA | Sports",
+    "name": "MLB (720p)"
+  },
+  {
+    "tvg_id": "NBATV.us@SD",
+    "group": "USA | Sports",
+    "name": "NBA TV (1080p)"
+  },
+  {
+    "tvg_id": "NFLNetwork.us@SD",
+    "group": "USA | Sports",
+    "name": "NFL Network (720p)"
+  },
+  {
+    "tvg_id": "NHLNetwork.us@SD",
+    "group": "USA | Sports",
+    "name": "NHL Network (1080p)"
+  },
+  {
+    "tvg_id": "PGATour.us@SD",
+    "group": "USA | Sports",
+    "name": "PGA Tour (1080p)"
+  },
+  {
+    "tvg_id": "Stadium.us@SD",
+    "group": "USA | Sports",
+    "name": "Stadium (720p)"
+  },
+  {
+    "tvg_id": "RedBullTV.at@US",
+    "group": "USA | Sports",
+    "name": "Red Bull TV US (1080p)"
+  },
+  {
+    "tvg_id": "WorldPokerTour.us@US",
+    "group": "USA | Sports",
+    "name": "World Poker Tour (1080p)"
+  },
+  {
+    "tvg_id": "AMC.us@EastHD",
+    "group": "USA | Movies",
+    "name": "AMC (United States) (720p)"
+  },
+  {
+    "tvg_id": "HallmarkMoviesMore.us@SD",
+    "group": "USA | Movies",
+    "name": "Hallmark Movies & More (1080p)"
+  },
+  {
+    "tvg_id": "LifetimeMovies.us@East",
+    "group": "USA | Movies",
+    "name": "Lifetime Movies (1080p)"
+  },
+  {
+    "tvg_id": "ParamountMovieChannel.us@SD",
+    "group": "USA | Movies",
+    "name": "Paramount Movie Channel"
+  },
+  {
+    "tvg_id": "ParamountPlusPicks.us@SD",
+    "group": "USA | Movies",
+    "name": "Paramount+ Picks"
+  },
+  {
+    "tvg_id": "PlutoTVAction.us@US",
+    "group": "USA | Movies",
+    "name": "Pluto TV Action (United States)"
+  },
+  {
+    "tvg_id": "PlutoTVCrimeMovies.us@SD",
+    "group": "USA | Movies",
+    "name": "Pluto TV Crime Movies"
+  },
+  {
+    "tvg_id": "PlutoTVCultFilms.us@US",
+    "group": "USA | Movies",
+    "name": "Pluto TV Cult Films (United States)"
+  },
+  {
+    "tvg_id": "PlutoTVDrama.us@US",
+    "group": "USA | Movies",
+    "name": "Pluto TV Drama"
+  },
+  {
+    "tvg_id": "PlutoTVSpotlight.us@SD",
+    "group": "USA | Movies",
+    "name": "Pluto TV Spotlight"
+  },
+  {
+    "tvg_id": "PlutoTVThrillers.us@US",
+    "group": "USA | Movies",
+    "name": "Pluto TV Thrillers (United States)"
+  },
+  {
+    "tvg_id": "PlutoTVWesterns.us@US",
+    "group": "USA | Movies",
+    "name": "Pluto TV Westerns (United States)"
+  },
+  {
+    "tvg_id": "PlutoTVSciFi.us@US",
+    "group": "USA | Movies",
+    "name": "Pluto TV Sci-Fi (United States)"
+  },
+  {
+    "tvg_id": "PlutoTVHorror.us@US",
+    "group": "USA | Movies",
+    "name": "Pluto TV Horror (United States)"
+  },
+  {
+    "tvg_id": "PlutoTVRomance.us@US",
+    "group": "USA | Movies",
+    "name": "Pluto TV Romance (United States)"
+  },
+  {
+    "tvg_id": "48Hours.us@US",
+    "group": "USA | Series",
+    "name": "48 Hours (1080p)"
+  },
+  {
+    "tvg_id": "Baywatch.us@US",
+    "group": "USA | Series",
+    "name": "Baywatch (1080p)"
+  },
+  {
+    "tvg_id": "CSI.us@SD",
+    "group": "USA | Series",
+    "name": "CSI (United States)"
+  },
+  {
+    "tvg_id": "CSIMiami.us@SD",
+    "group": "USA | Series",
+    "name": "CSI: Miami"
+  },
+  {
+    "tvg_id": "CSINY.us@SD",
+    "group": "USA | Series",
+    "name": "CSI: NY"
+  },
+  {
+    "tvg_id": "DoctorWhoClassic.us@US",
+    "group": "USA | Series",
+    "name": "Doctor Who Classic (1080p)"
+  },
+  {
+    "tvg_id": "MissionImpossible.us@SD",
+    "group": "USA | Series",
+    "name": "Mission Impossible (United States)"
+  },
+  {
+    "tvg_id": "StarTrek.us@US",
+    "group": "USA | Series",
+    "name": "Star Trek US"
+  },
+  {
+    "tvg_id": "Survivor.us@SD",
+    "group": "USA | Series",
+    "name": "Survivor (1080p)"
+  },
+  {
+    "tvg_id": "ThisOldHouse.us@SD",
+    "group": "USA | Series",
+    "name": "This Old House (1080p)"
+  },
+  {
+    "tvg_id": "UnsolvedMysteries.us@US",
+    "group": "USA | Series",
+    "name": "Unsolved Mysteries (720p)"
+  },
+  {
+    "tvg_id": "PlutoTVTheTwilightZone.us@SD",
+    "group": "USA | Series",
+    "name": "Pluto TV The Twilight Zone"
+  },
+  {
+    "tvg_id": "PlutoTVTrueCrime.us@US",
+    "group": "USA | Series",
+    "name": "Pluto TV True Crime (United States)"
+  },
+  {
+    "tvg_id": "PBSAntiquesRoadshow.us@SD",
+    "group": "USA | Series",
+    "name": "PBS Antiques Roadshow (1080p)"
+  },
+  {
+    "tvg_id": "AE.us@East",
+    "group": "USA | Entertainment",
+    "name": "A&E (720p)"
+  },
+  {
+    "tvg_id": "BBCAmerica.us@East",
+    "group": "USA | Entertainment",
+    "name": "BBC America (720p)"
+  },
+  {
+    "tvg_id": "IONPlus.us@East",
+    "group": "USA | Entertainment",
+    "name": "ION Plus (1080p)"
+  },
+  {
+    "tvg_id": "Lifetime.us@East",
+    "group": "USA | Entertainment",
+    "name": "Lifetime (720p)"
+  },
+  {
+    "tvg_id": "StoriesbyAMC.us@SD",
+    "group": "USA | Entertainment",
+    "name": "Stories by AMC"
+  },
+  {
+    "tvg_id": "GameShowCentral.us@SD",
+    "group": "USA | Entertainment",
+    "name": "Game Show Central (720p)"
+  },
+  {
+    "tvg_id": "MTVPlutoTV.us@US",
+    "group": "USA | Entertainment",
+    "name": "MTV Pluto TV"
+  },
+  {
+    "tvg_id": "BBCKids.us@SD",
+    "group": "USA | Kids",
+    "name": "BBC Kids (720p)"
+  },
+  {
+    "tvg_id": "LegoChannel.us@SD",
+    "group": "USA | Kids",
+    "name": "Lego Channel (1080p)"
+  },
+  {
+    "tvg_id": "NickJr.us@East",
+    "group": "USA | Kids",
+    "name": "Nick Jr. (United States) (720p)"
+  },
+  {
+    "tvg_id": "Nickelodeon.us@East",
+    "group": "USA | Kids",
+    "name": "Nickelodeon (United States) (720p)"
+  },
+  {
+    "tvg_id": "Nicktoons.us@East",
+    "group": "USA | Kids",
+    "name": "Nicktoons (United States) (720p)"
+  },
+  {
+    "tvg_id": "TeenNick.us@East",
+    "group": "USA | Kids",
+    "name": "TeenNick (United States) (576p)"
+  },
+  {
+    "tvg_id": "PBSKids.us@SD",
+    "group": "USA | Kids",
+    "name": "PBS Kids (720p)"
+  },
+  {
+    "tvg_id": "ComedyCentral.us@East",
+    "group": "USA | Comedy",
+    "name": "Comedy Central (United States) (576p)"
+  },
+  {
+    "tvg_id": "FailArmy.us@US",
+    "group": "USA | Comedy",
+    "name": "FailArmy (720p)"
+  },
+  {
+    "tvg_id": "MysteryScienceTheater3000.us@SD",
+    "group": "USA | Comedy",
+    "name": "Mystery Science Theater 3000 (1080p)"
+  },
+  {
+    "tvg_id": "PlutoTVComedy.us@US",
+    "group": "USA | Comedy",
+    "name": "Pluto TV Comedy"
+  },
+  {
+    "tvg_id": "JohnnyCarsonTV.us@SD",
+    "group": "USA | Comedy",
+    "name": "Johnny Carson TV (720p)"
+  },
+  {
+    "tvg_id": "AmericasTestKitchen.us@SD",
+    "group": "USA | Food & Travel",
+    "name": "America's Test Kitchen (720p)"
+  },
+  {
+    "tvg_id": "BBCFood.us@SD",
+    "group": "USA | Food & Travel",
+    "name": "BBC Food (1080p)"
+  },
+  {
+    "tvg_id": "bonappetit.us@SD",
+    "group": "USA | Food & Travel",
+    "name": "bon appetit (1080p)"
+  },
+  {
+    "tvg_id": "Tastemade.us@US",
+    "group": "USA | Food & Travel",
+    "name": "Tastemade (1080p)"
+  },
+  {
+    "tvg_id": "TastemadeTravel.us@SD",
+    "group": "USA | Food & Travel",
+    "name": "Tastemade Travel (1080p)"
+  },
+  {
+    "tvg_id": "Journy.us@SD",
+    "group": "USA | Food & Travel",
+    "name": "Journy (720p)"
+  }
+]
