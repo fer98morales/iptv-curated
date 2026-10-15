@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-14T20:58:01.336934+00:00",
+  "generated_at": "2026-10-15T10:17:24.916660+00:00",
   "playlists": {
     "mexico": {
       "total_channels": 48,
       "channels_with_programmes": 19,
       "channels_with_current_programme": 19,
-      "programmes": 700,
+      "programmes": 885,
       "covered": [
         "MilenioTelevision.mx@SD",
         "EstrellaNews.us@SD",
@@ -64,7 +64,7 @@
       "total_channels": 108,
       "channels_with_programmes": 83,
       "channels_with_current_programme": 83,
-      "programmes": 2883,
+      "programmes": 3092,
       "covered": [
         "ABC.us@East",
         "CBS.us@East",
@@ -183,7 +183,7 @@
       "total_channels": 38,
       "channels_with_programmes": 26,
       "channels_with_current_programme": 26,
-      "programmes": 694,
+      "programmes": 823,
       "covered": [
         "beINSPORTSXTRA.us@SD",
         "CBSSportsHQ.us@SD",
