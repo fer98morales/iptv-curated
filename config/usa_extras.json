@@ -1,7 +1,7 @@
 [
   {
     "tvg_id": "60d3574e97f10800078455de",
-    "group": "24/7 Shows | Pluto Spain",
+    "group": "USA | 24/7 Channels",
     "name": "Doctor Who (2005) 🇪🇸",
     "logo": "https://images.pluto.tv/channels/60d3574e97f10800078455de/colorLogoPNG_1792573918778.png",
     "url": "https://jmp2.uk/plu-60d3574e97f10800078455de.m3u8",
@@ -9,14 +9,14 @@
   },
   {
     "tvg_id": "4b11b827-2921-4bf1-a196-4755fc9be65c",
-    "group": "USA | Pluto TV | Sci-Fi",
+    "group": "USA | 24/7 Channels",
     "name": "The X-Files",
     "url": "https://jmp2.uk/plu-6913e381b6bf26bb6e798c13.m3u8",
     "source": "https://github.com/davkattun/pluto-tv-regions/blob/main/output/m3u/pluto-us.m3u"
   },
   {
     "tvg_id": "US52000010Y",
-    "group": "USA | Samsung TV Plus | Science",
+    "group": "USA | 24/7 Channels",
     "name": "StarTalk",
     "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US52000010Y_20260421T141805SQUARE.png",
     "url": "https://jmp2.uk/stvp-US52000010Y",
