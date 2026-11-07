@@ -203,3 +203,7 @@ https://d6ef3usc6d9cl.cloudfront.net/Tastemade_Travel.m3u8
 https://d3s3a5c7f101eb.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="60d3574e97f10800078455de" tvg-logo="https://images.pluto.tv/channels/60d3574e97f10800078455de/colorLogoPNG_1792573918778.png" group-title="24/7 Shows | Pluto Spain",Doctor Who (2005) 🇪🇸
 https://jmp2.uk/plu-60d3574e97f10800078455de.m3u8
+#EXTINF:-1 tvg-id="4b11b827-2921-4bf1-a196-4755fc9be65c" tvg-logo="" group-title="USA | Pluto TV | Sci-Fi",The X-Files
+https://jmp2.uk/plu-6913e381b6bf26bb6e798c13.m3u8
+#EXTINF:-1 tvg-id="US52000010Y" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US52000010Y_20260421T141805SQUARE.png" group-title="USA | Samsung TV Plus | Science",StarTalk
+https://jmp2.uk/stvp-US52000010Y
