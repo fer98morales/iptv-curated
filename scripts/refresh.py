@@ -104,6 +104,20 @@ def refresh_one(name: str, spec: dict) -> None:
         output.extend(entry["middle"])
         output.append(entry["url"])
 
+    # Optional manual extras from other official/free FAST sources.
+    # These are appended after the IPTV-org whitelist so daily refreshes do not remove them.
+    extra_config = spec.get("extra_config")
+    if extra_config and extra_config.exists():
+        extras = json.loads(extra_config.read_text(encoding="utf-8"))
+        for channel in extras:
+            logo = channel.get("logo", "")
+            extinf = (
+                f'#EXTINF:-1 tvg-id="{channel["tvg_id"]}" '
+                f'tvg-logo="{logo}" group-title="{channel["group"]}",{channel["name"]}'
+            )
+            output.append(extinf)
+            output.append(channel["url"])
+
     spec["output"].parent.mkdir(parents=True, exist_ok=True)
     spec["output"].write_text("\r\n".join(output) + "\r\n", encoding="utf-8", newline="")
 
