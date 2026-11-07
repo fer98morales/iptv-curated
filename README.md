@@ -12,6 +12,8 @@ These files are generated from IPTV-org's public country playlists, but keep onl
 the channels selected in `config/mexico.json` and `config/usa.json`.
 Sports uses the public sports category playlist and `config/sports.json`.
 
+The USA playlist can also include a small set of curated FAST extras from `config/usa_extras.json`. These entries are appended after the IPTV-org refresh and are not removed by the daily workflow.
+
 ## NexoTV URLs
 
 Use these public playlist URLs:
@@ -66,7 +68,7 @@ workflow manually.
 ## Current curated size
 
 - Mexico: 48 channels
-- USA: 108 channels
+- USA: 109 channels
 - Sports: 38 channels
 
 ## Sports selection
@@ -141,3 +143,7 @@ Las fuentes pueden requerir mantenimiento cuando cambien sus sitios.
 Para reproducir el proceso localmente, sigue los pasos del workflow
 [epg.yml](.github/workflows/epg.yml). Para verificar el publicador:
 `python -m unittest discover -s tests`.
+
+## 24/7 extras
+
+The USA playlist currently includes **Doctor Who (2005)** from Pluto TV Spain as a curated external FAST extra. It uses Pluto channel ID `60d3574e97f10800078455de` through the current `jmp2.uk` Pluto redirect format. Availability may still depend on region; the source is tracked separately from IPTV-org so the daily refresh will not remove it.
