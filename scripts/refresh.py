@@ -35,6 +35,7 @@ PLAYLISTS = {
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "config": ROOT / "config" / "usa.json",
         "output": ROOT / "playlists" / "usa.m3u",
+        "extra_config": ROOT / "config" / "usa_extras.json",
     },
 }
 
