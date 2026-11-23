@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-22T22:46:40.529125+00:00",
+  "generated_at": "2026-11-23T16:27:16.698537+00:00",
   "playlists": {
     "mexico": {
       "total_channels": 48,
       "channels_with_programmes": 19,
       "channels_with_current_programme": 19,
-      "programmes": 655,
+      "programmes": 774,
       "covered": [
         "MilenioTelevision.mx@SD",
         "EstrellaNews.us@SD",
@@ -64,7 +64,7 @@
       "total_channels": 108,
       "channels_with_programmes": 83,
       "channels_with_current_programme": 83,
-      "programmes": 2858,
+      "programmes": 3065,
       "covered": [
         "ABC.us@East",
         "CBS.us@East",
@@ -183,7 +183,7 @@
       "total_channels": 38,
       "channels_with_programmes": 26,
       "channels_with_current_programme": 26,
-      "programmes": 670,
+      "programmes": 795,
       "covered": [
         "beINSPORTSXTRA.us@SD",
         "CBSSportsHQ.us@SD",
@@ -212,7 +212,9 @@
         "PGATour.us@SD",
         "WillowSports.us@SD"
       ],
-      "retained_from_previous_run": [],
+      "retained_from_previous_run": [
+        "RedBullTV.at@ES"
+      ],
       "missing": [
         "AztecaDeportesNetwork.mx@SD",
         "FIFAPlusWomen.uk@English",
